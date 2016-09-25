@@ -13,7 +13,7 @@ There were several sources recommended so far:
 - [Wikipedia](https://en.wikipedia.org/wiki/Category:Academic_publishing_companies) provides a list of Academic publishing companies;
 - [SHERPA/RoMEO](http://www.sherpa.ac.uk/romeo/journalbrowse.php) has a CC-NC-SA license to its data;
 - [zetoc](http://zetoc.jisc.ac.uk/jnllist.html), [DOAJ](https://doaj.org/api/v1/docs) and [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/) have licenses that need to be read and considered
-- [@okfnedu](https://twitter.com/gurinovich/status/732332714255372289) is meant to have a list of all life sciences related journals, but it isn't online...
+- [list of "honest and reliable OA journals in Open and Distance Education"](https://oerqualityproject.wordpress.com/2015/10/21/honest-and-reliable-open-access-journals-in-open-and-distance-education/)
 - [crossref](https://github.com/CrossRef/rest-api-doc/blob/master/rest_api.md), of course
 
 Each of them must be analyzed, and some means to fetch their data written.
