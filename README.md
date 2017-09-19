@@ -13,7 +13,6 @@ There were several sources recommended so far:
 - [Wikipedia](https://en.wikipedia.org/wiki/Category:Academic_publishing_companies) provides a list of Academic publishing companies (CC-BY-SA);
 - [DOAJ](https://doaj.org/api/v1/docs) (CC-BY-SA);
 - [SHERPA/RoMEO](http://www.sherpa.ac.uk/romeo/journalbrowse.php) has a CC-NC-SA license to its data;
-- [list of "honest and reliable OA journals in Open and Distance Education"](https://oerqualityproject.wordpress.com/2015/10/21/honest-and-reliable-open-access-journals-in-open-and-distance-education/) license needs to be evaluated;
 - [crossref](https://github.com/CrossRef/rest-api-doc/blob/master/rest_api.md), of course (license needs to be evaluated).
 
 Each of them must be analyzed, and some means to fetch their data written.
