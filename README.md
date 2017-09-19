@@ -15,7 +15,7 @@ There were several sources recommended so far:
 - [SHERPA/RoMEO](http://www.sherpa.ac.uk/romeo/journalbrowse.php) has a CC-NC-SA license to its data;
 - [crossref](https://github.com/CrossRef/rest-api-doc), of course (oublic domain).
 
-For now, only the Wikipedia fetcher is implemented, [see the resulting list here](wikipedia.txt).
+For now, only the Wikipedia fetcher is implemented, [see the resulting list here](wikipedia.txt). Take into account that this list still doesn't point out to the publisher's website, only its name.
 
 License
 -------
