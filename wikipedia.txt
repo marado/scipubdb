@@ -1,6 +1,5 @@
 ABC-CLIO
 Academic Press
-Academic Press Corporation
 Adam Matthew Digital
 Alexander Street Press
 Allen Press
@@ -9,7 +8,7 @@ American Book Company (1996)
 American Psychological Association
 Arena (Australian publishing co-operative)
 Ashgate Publishing
-Bedford-St. Martin's
+Bedford-St. Martin&#039;s
 Bentham Science Publishers
 Bepress
 Berg Publishers
@@ -22,6 +21,7 @@ Brill Publishers
 Brunswick Books
 Caister Academic Press
 Cambria Press
+Carl Hanser Verlag
 Carl Heymanns Verlag
 Carolina Academic Press
 Channel View Publications
@@ -38,22 +38,24 @@ E. Schweizerbart
 EBSCO Information Services
 EDP Sciences
 Edward Elgar Publishing
+Eleven International Publishing
 ELife Sciences Publications
 Elsevier
 Emerald Group Publishing
 Flat World Knowledge
 Freund Publishing House
+Future Medicine
 Gorgias Press
 Gotland Museum
 Greenbranch Publishing
+L&#039;Harmattan
 Harrassowitz Verlag
 Hayden-McNeil
 Henry Holt and Company
 Hindawi Publishing Corporation
-Horizon Scientific Press
 Humana Press
-IGI Global
 Inderscience Publishers
+Informa
 Ingenta
 InteLex Past Masters
 International Medical Press
@@ -69,10 +71,13 @@ John Donald (imprint)
 Jones &amp; Bartlett Learning
 Karger Publishers
 Königshausen &amp; Neumann
+Kube Publishing
 Landes Bioscience
+Language Science Press
 Legenda (imprint)
 Libertas Academica
 Lippincott Williams &amp; Wilkins
+Litwin Books, LLC
 Living Reviews
 M. E. Sharpe
 Maney Publishing
@@ -81,7 +86,8 @@ Mary Ann Liebert, Inc.
 MDPI
 The Medical Letter, Inc.
 Medknow Publications
-Men's Studies Press
+Men&#039;s Studies Press
+Mettler &amp; Salz
 Mkuki na Nyota
 Mohr Siebeck
 NASW Press
@@ -90,7 +96,9 @@ Nauka (publisher)
 Naukova Dumka
 Nova Science Publishers
 OMICS Publishing Group
+Omohundro Institute of Early American History and Culture
 Open Court Publishing Company
+Ovid Technologies
 Palgrave Macmillan
 Peerage of Science
 PeerJ
@@ -102,6 +110,7 @@ Pickering &amp; Chatto Publishers
 Pluto Press
 Polity (publisher)
 Pulsus Group
+Rankings of academic publishers
 Rodopi (publisher)
 Routledge
 Rowman &amp; Littlefield
@@ -114,7 +123,6 @@ Smithsonian Institution Press
 Springer Nature
 Springer Publishing
 Springer Science+Business Media
-Sussex Academic Press
 T&amp;T Clark
 Taylor &amp; Francis
 Technika (publisher)
