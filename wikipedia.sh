@@ -7,5 +7,5 @@ raw=$(
 
 echo "$raw" > wikipedia-raw.html;
 
-for line in $(seq 1 "$(echo "$raw"|wc -l)"); do echo "$raw"|head -n"$line"|tail -n 1 |hxselect a -c; echo ""; done > wikipedia.txt
+for line in $(seq 1 "$(echo "$raw"|wc -l)"); do echo "$raw"|head -n"$line"|tail -n 1 |hxselect a -c|html2text; done > wikipedia.txt
 

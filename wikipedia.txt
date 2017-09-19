@@ -8,7 +8,7 @@ American Book Company (1996)
 American Psychological Association
 Arena (Australian publishing co-operative)
 Ashgate Publishing
-Bedford-St. Martin&#039;s
+Bedford-St. Martin's
 Bentham Science Publishers
 Bepress
 Berg Publishers
@@ -16,7 +16,7 @@ Berghahn Books
 BioMed Central
 BioOne
 Bioscientifica
-Boydell &amp; Brewer
+Boydell & Brewer
 Brill Publishers
 Brunswick Books
 Caister Academic Press
@@ -48,7 +48,7 @@ Future Medicine
 Gorgias Press
 Gotland Museum
 Greenbranch Publishing
-L&#039;Harmattan
+L'Harmattan
 Harrassowitz Verlag
 Hayden-McNeil
 Henry Holt and Company
@@ -63,20 +63,20 @@ International Universities Press
 IOP Publishing
 IOS Press
 Islamic Texts Society
-Íslenzk fornrit
+Ãslenzk fornrit
 Ivyspring International Publisher
 JMIR Publications
 John Benjamins Publishing Company
 John Donald (imprint)
-Jones &amp; Bartlett Learning
+Jones & Bartlett Learning
 Karger Publishers
-Königshausen &amp; Neumann
+KÃ¶nigshausen & Neumann
 Kube Publishing
 Landes Bioscience
 Language Science Press
 Legenda (imprint)
 Libertas Academica
-Lippincott Williams &amp; Wilkins
+Lippincott Williams & Wilkins
 Litwin Books, LLC
 Living Reviews
 M. E. Sharpe
@@ -86,8 +86,8 @@ Mary Ann Liebert, Inc.
 MDPI
 The Medical Letter, Inc.
 Medknow Publications
-Men&#039;s Studies Press
-Mettler &amp; Salz
+Men's Studies Press
+Mettler & Salz
 Mkuki na Nyota
 Mohr Siebeck
 NASW Press
@@ -106,14 +106,14 @@ Peeters (publishing company)
 Pensoft Publishers
 Perspectivia.net
 Peter Lang (publisher)
-Pickering &amp; Chatto Publishers
+Pickering & Chatto Publishers
 Pluto Press
 Polity (publisher)
 Pulsus Group
 Rankings of academic publishers
 Rodopi (publisher)
 Routledge
-Rowman &amp; Littlefield
+Rowman & Littlefield
 SAGE Publications
 Verlag Anton Saurwein
 Sciences Nat
@@ -123,8 +123,8 @@ Smithsonian Institution Press
 Springer Nature
 Springer Publishing
 Springer Science+Business Media
-T&amp;T Clark
-Taylor &amp; Francis
+T&T Clark
+Taylor & Francis
 Technika (publisher)
 Technosphera (publisher)
 Telos (journal)
@@ -136,7 +136,7 @@ Universal Publishers (United States)
 Universitetsforlaget
 University of Hertfordshire Press
 University Press of America
-Urban &amp; Schwarzenberg
+Urban & Schwarzenberg
 Verlag Harri Deutsch
 Verlag Theodor Steinkopff
 Wageningen Academic Publishers
