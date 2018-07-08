@@ -13,7 +13,7 @@ There were several sources recommended so far:
 - [Wikipedia](https://en.wikipedia.org/wiki/Category:Academic_publishing_companies) provides a list of Academic publishing companies (CC-BY-SA);
 - [DOAJ](https://doaj.org/api/v1/docs) (CC-BY-SA);
 - [SHERPA/RoMEO](http://www.sherpa.ac.uk/romeo/journalbrowse.php) has a CC-NC-SA license to its data;
-- [crossref](https://github.com/CrossRef/rest-api-doc), of course (oublic domain).
+- [crossref](https://github.com/CrossRef/rest-api-doc), of course (public domain).
 
 For now, only the Wikipedia fetcher is implemented, [see the resulting list here](wikipedia.txt). Take into account that this list still doesn't point out to the publisher's website, only its name.
 
