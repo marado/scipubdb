@@ -1,13 +1,17 @@
 ABC-CLIO
 Academic Press
+Academic Studies Press
+Academica Press
 Adam Matthew Digital
 Alexander Street Press
 Allen Press
 Allied Publishers
 American Book Company (1996)
 American Psychological Association
+ANU Press
 Arena (Australian publishing co-operative)
 Ashgate Publishing
+Baishideng Publishing Group
 Bedford-St. Martin's
 Bentham Science Publishers
 Bepress
@@ -30,6 +34,8 @@ CNKI
 Cold Spring Harbor Laboratory Press
 College Publications
 Copernicus Publications
+CSIRO Publishing
+Cuvillier Verlag
 Deutscher Verlag der Wissenschaften
 Dove Medical Press
 Dunedin Academic Press
@@ -38,13 +44,13 @@ E. Schweizerbart
 EBSCO Information Services
 EDP Sciences
 Edward Elgar Publishing
-Eleven International Publishing
 ELife Sciences Publications
 Elsevier
 Emerald Group Publishing
 Flat World Knowledge
 Freund Publishing House
 Future Medicine
+Gallaudet University Press
 Gorgias Press
 Gotland Museum
 Greenbranch Publishing
@@ -53,6 +59,7 @@ Harrassowitz Verlag
 Hayden-McNeil
 Henry Holt and Company
 Hindawi Publishing Corporation
+Hogrefe Publishing Group
 Humana Press
 Inderscience Publishers
 Informa
@@ -78,7 +85,6 @@ Legenda (imprint)
 Libertas Academica
 Lippincott Williams & Wilkins
 Litwin Books, LLC
-Living Reviews
 M. E. Sharpe
 Maney Publishing
 Martinus Nijhoff Publishers
@@ -95,10 +101,12 @@ Nature Publishing Group
 Nauka (publisher)
 Naukova Dumka
 Nova Science Publishers
+NRC Research Press
 OMICS Publishing Group
 Omohundro Institute of Early American History and Culture
 Open Court Publishing Company
 Ovid Technologies
+Oxford University Press
 Palgrave Macmillan
 Peerage of Science
 PeerJ
@@ -116,6 +124,8 @@ Routledge
 Rowman & Littlefield
 SAGE Publications
 Verlag Anton Saurwein
+Scholastica (company)
+Scholastica (publishing platform)
 Sciences Nat
 Scientific Research Publishing
 Sinauer Associates
@@ -129,11 +139,12 @@ Technika (publisher)
 Technosphera (publisher)
 Telos (journal)
 Thieme Medical Publishers
-Tsehai Publishers
+TSEHAI Publishers
 Ubiquity Press
-Ukrainian Encyclopedia (publishing)
+Ukrainian Encyclopedia (publisher)
 Universal Publishers (United States)
 Universitetsforlaget
+University of Chicago Press
 University of Hertfordshire Press
 University Press of America
 Urban & Schwarzenberg
